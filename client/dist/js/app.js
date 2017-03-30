@@ -9469,7 +9469,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 (0, _reactDom.render)(_react2.default.createElement(
     'h1',
     null,
-    'this is runnin react'
+    'Load from HomePage'
 ), document.getElementById('react-app'));
 
 /***/ }),
